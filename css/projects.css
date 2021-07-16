@@ -1,0 +1,11 @@
+.project-item {
+width: 30%;
+height: 50%;
+display: inline-block;
+margin-left: 15px;
+margin-right: 15px;
+}
+
+#choosy-screenshot {
+  object-fit: cover;
+}

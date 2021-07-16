@@ -1,0 +1,22 @@
+.skill-icons {
+ /* display: flex;
+ flex-wrap: wrap; */
+}
+
+.skill-icons * {
+  display: inline-block;
+  font-size: 100px;
+  margin: 10px;
+}
+
+#rails-icon {
+  font-size: 120px;
+}
+
+#express-icon {
+  font-size: 120px;
+}
+
+#nodejs-icon {
+  font-size: 120px;
+}
